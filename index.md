@@ -1,3 +1,9 @@
+.page-header{
+color:#ffff;
+background-color:#A067AB;
+background-image:linear-gradient(120deg,#5073B8,#A067AB);
+}
+
 # About
 ## Let me introduce myself 
 - I am a Environmental Engineering undergraduate at Cornell. While trying to bring my team’s clean water tech to more communities in Honduras, I became inspired by how non-philanthropic capital has the power to drive scalable value and mobilize economic opportunity by fueling the gifts of others. I want to wield such a critical force for effecting change through sustainable investing.
